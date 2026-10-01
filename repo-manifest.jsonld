@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/anysphere/vscode-proxy-agent/commit/2a01b8b61cf29d8fcd4a9bfdf56f3d2246329f8c",
       "git:hexsha": "2a01b8b61cf29d8fcd4a9bfdf56f3d2246329f8c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
