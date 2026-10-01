@@ -82,6 +82,138 @@
       ],
       "ast": [
         "aggregate/ast/2a01b8b61cf29d8fcd4a9bfdf56f3d2246329f8c/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/2a01b8b61cf29d8fcd4a9bfdf56f3d2246329f8c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@tootallnate/once",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "TooTallNate",
+          "githubRepo": "once",
+          "githubCommit": "2bc2e134b7728a6b37c6838a3b5d5c290e60a539",
+          "githubTag": "3.0.0",
+          "githubUrl": "git://github.com/TooTallNate/once.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "agent-base",
+          "ecosystem": "NPM",
+          "version": "7.0.1",
+          "githubOrg": "TooTallNate",
+          "githubRepo": "proxy-agents",
+          "githubUrl": "git+https://github.com/TooTallNate/proxy-agents.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "debug",
+          "ecosystem": "NPM",
+          "version": "4.3.4",
+          "githubOrg": "debug-js",
+          "githubRepo": "debug",
+          "githubCommit": "da66c86c5fd71ef570f36b5b1edfa4472149f1bc",
+          "githubTag": "4.3.4",
+          "githubUrl": "git://github.com/debug-js/debug.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "http-proxy-agent",
+          "ecosystem": "NPM",
+          "version": "7.0.0",
+          "githubOrg": "TooTallNate",
+          "githubRepo": "proxy-agents",
+          "githubUrl": "git+https://github.com/TooTallNate/proxy-agents.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "https-proxy-agent",
+          "ecosystem": "NPM",
+          "version": "7.0.2",
+          "githubOrg": "TooTallNate",
+          "githubRepo": "proxy-agents",
+          "githubUrl": "git+https://github.com/TooTallNate/proxy-agents.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "socks-proxy-agent",
+          "ecosystem": "NPM",
+          "version": "8.0.1",
+          "githubOrg": "TooTallNate",
+          "githubRepo": "proxy-agents",
+          "githubUrl": "git+https://github.com/TooTallNate/proxy-agents.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "undici",
+          "ecosystem": "NPM",
+          "version": "7.2.0",
+          "githubOrg": "nodejs",
+          "githubRepo": "undici",
+          "githubCommit": "29760e70972f58a1bccfb02a5566803227198aff",
+          "githubTag": "v7.2.0",
+          "githubUrl": "git+https://github.com/nodejs/undici.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/debug",
+          "ecosystem": "NPM",
+          "version": "4.1.9",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/mocha",
+          "ecosystem": "NPM",
+          "version": "10.0.10",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "22.18.10",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mocha",
+          "ecosystem": "NPM",
+          "version": "11.7.5",
+          "githubOrg": "mochajs",
+          "githubRepo": "mocha",
+          "githubCommit": "9a6a5db8401dec63ea81093dd862e9e9b13b44d0",
+          "githubTag": "v11.7.5",
+          "githubUrl": "git+https://github.com/mochajs/mocha.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ts-node",
+          "ecosystem": "NPM",
+          "version": "10.9.2",
+          "githubOrg": "TypeStrong",
+          "githubRepo": "ts-node",
+          "githubCommit": "057ac1beb118f9c42d21e876a17320ad73ea6be2",
+          "githubTag": "v10.9.2",
+          "githubUrl": "git://github.com/TypeStrong/ts-node.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "5.2.2",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "9684ba6b0d73c37546ada901e5d0a5324de7fc1d",
+          "githubTag": "v5.2.2",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
