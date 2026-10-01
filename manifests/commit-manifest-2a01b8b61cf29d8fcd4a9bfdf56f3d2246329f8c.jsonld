@@ -1,0 +1,45 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/anysphere/vscode-proxy-agent/commit/2a01b8b61cf29d8fcd4a9bfdf56f3d2246329f8c",
+  "@type": "git:Commit",
+  "git:hexsha": "2a01b8b61cf29d8fcd4a9bfdf56f3d2246329f8c",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/anysphere/vscode-proxy-agent"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/2a01b8b61cf29d8fcd4a9bfdf56f3d2246329f8c.nq.gz",
+      "repolex:graphFileSize": 11458
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 92409
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 723
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 3491
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-01T07:00:47.486322+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "main"
+}
